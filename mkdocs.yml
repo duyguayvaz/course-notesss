@@ -6,10 +6,10 @@ site_author: 'Duygu Ayvaz'
 site_url: 'https://duyguayvaz.github.io/course-notesss/'
 
 site_description_en: >-
-    Course Notes Templates
+    Course Notes
 
 site_description_tr: >-
-    Ders Notu Şablonu
+    Ders Notu 
 
 # Repository
 repo_name: 'GitHub'
@@ -133,7 +133,6 @@ extra:
       link: https://github.com/duyguayvaz
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/duygu-ayvaz-395a46251/
-  
             
 # Extensions
 markdown_extensions:
@@ -202,7 +201,7 @@ plugins:
           Syllabus: 'Ders İzlencesi'
           Course Modules: 'Ders Modülleri'
           Week-1 (Sample-1): 'Hafta-1 (Örnek-1)'
-          Week-2 (Sample-2): 'Hafta-2 (Örnek-1)''
+          Week-2 (Sample-2): 'Hafta-2 (Örnek-1)'
           License: 'Lisans'
           Resume: 'Özgeçmiş'
           Changelog: 'Geçmiş'
